@@ -91,6 +91,10 @@ us.lgtvsdp.com
 us.rdx2.lgtvsdp.com
 yumenetworks.com
 aic-ngfts.lge.com
+fr.lgtvsdp.com
+fr.info.lgsmartad.com
+fr.ad.lgsmartad.com
+
 
 # Philips
 #deviceportal.nettvservices.com # needed for apps
